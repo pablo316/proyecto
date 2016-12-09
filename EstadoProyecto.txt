@@ -1,3 +1,6 @@
-para saber que es lo que esta listo del trabajo, para que no pregunten que estan haciendo o que falta.
-gabo:implementar la funcionabilidad a clientes (listo)
-login de usuario
+para saber que es lo que esta listo del trabajo, para que no pregunten que estan haciendo o que falta:
+implementar la funcionabilidad a clientes (listo)
+login de usuario, crear usuario?
+ingresar/editar/eliminar materiales
+materiales tiene un dato tipo date y para validarlo creo que podemos usar lo que hicimso en web, cuando el profe paso formulario y tenia que ingresar una fecha de nacimiento
+hacer como un trigger pa q el rut tenga 10 digitos

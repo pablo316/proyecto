@@ -4,3 +4,4 @@ login de usuario, crear usuario?
 ingresar/editar/eliminar materiales
 materiales tiene un dato tipo date y para validarlo creo que podemos usar lo que hicimso en web, cuando el profe paso formulario y tenia que ingresar una fecha de nacimiento
 hacer como un trigger pa q el rut tenga 10 digitos
+hacer insert en la bd para el proyecto, no datos de prueba 
